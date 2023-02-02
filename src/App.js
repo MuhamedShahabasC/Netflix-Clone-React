@@ -11,7 +11,7 @@ function App() {
     document.title = 'Netflix';
   }, []);
   return (
-    <div className="app">
+    <div>
       <Nav/>
       <Banner />
       <Row title='Netflix Originals ' fetchUrl={requests.fetchNetflixOriginals} isLargeRow/>
@@ -25,6 +25,6 @@ function App() {
       <Footer/>
     </div>
   );
-}
+}    
 
 export default App;
