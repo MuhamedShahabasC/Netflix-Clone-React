@@ -7,9 +7,6 @@ import { useEffect } from 'react';
 import Footer from './Footer'
 
 function App() {
-  useEffect(() => {
-    document.title = 'Netflix';
-  }, []);
   return (
     <div>
       <Nav/>
