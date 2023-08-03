@@ -8,8 +8,5 @@
     "main.b6d834ad.js.map": "/Netflix-Clone-React/static/js/main.b6d834ad.js.map",
     "787.ef12a00e.chunk.js.map": "/Netflix-Clone-React/static/js/787.ef12a00e.chunk.js.map"
   },
-  "entrypoints": [
-    "static/css/main.150d4c23.css",
-    "static/js/main.b6d834ad.js"
-  ]
+  "entrypoints": ["static/css/main.150d4c23.css", "static/js/main.b6d834ad.js"]
 }
