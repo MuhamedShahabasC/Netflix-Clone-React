@@ -1,3 +1,3 @@
 Netflix clone using React
 
-https://muhamedshahabas.github.io/Netflix-Clone-React/
+https://netflix-clone-react-22.netlify.app/
